@@ -1,5 +1,12 @@
+body {
+    font-family: Ubuntu, sans-serif;
+    background: hsl(10, 0%, 10%);
+    color: hsl(0, 0%, 95%);
+}
+
 img {
     width: 300px;
     height: auto;
     border-radius: 1em;
+    margin: 2em;
 }
